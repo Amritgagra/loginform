@@ -1,10 +1,10 @@
 import "./App.css";
-import { LoginForm } from "./components/LoginForm";
+import { Home } from "./components/Home";
 
 function App() {
   return (
     <>
-      <LoginForm />
+      <Home />
     </>
   );
 }
